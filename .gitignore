@@ -1,0 +1,8 @@
+# Ignore all logs
+/logs/*
+
+# Ignore any other temporary or undesired files
+      *.pyc       # Compiled python files
+      *.log       # Any stray log files outside the logs directory
+      __pycache__ # Python cache directory, generated when you run Python scripts
+
